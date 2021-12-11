@@ -5,9 +5,8 @@
 ## Accordance with the Priority schedulling Using Semaphore 
 
 
-
-
-https://user-images.githubusercontent.com/41983390/145664476-fec2d4ad-f732-49c1-af96-7328d7b66819.mp4
+# Output
+![vehicle_detection_v3](https://user-images.githubusercontent.com/41983390/145664595-8c054f04-b049-4234-b5ab-86f316a65d69.gif)
 
 
 # Googlecolab setup
